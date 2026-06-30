@@ -25,5 +25,28 @@ This project predicts house prices using machine learning techniques.
 - Model evaluation
 - Feature importance analysis
 
+## Dataset
+
+The project uses a housing dataset containing features such as:
+- Area
+- Number of Bedrooms
+- Bathrooms
+- Parking
+- Furnishing Status
+- Price
+
+## Models Used
+
+- Linear Regression
+- Logistic Regression
+
+## Future Improvements
+
+- Random Forest Regressor
+- XGBoost
+- Streamlit Deployment
+
 ## Author
 Khushaal Srivastava
+
+
